@@ -24,3 +24,5 @@ secrets:
     external: true
   jenkins-pass:
     external: true
+  hub-pass:
+    external: true
