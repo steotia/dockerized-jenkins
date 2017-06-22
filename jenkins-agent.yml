@@ -27,3 +27,5 @@ secrets:
     external: true
   hub-pass:
     external: true
+  read-key:
+    external: true
