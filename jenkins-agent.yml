@@ -16,6 +16,7 @@ services:
       - jenkins-user
       - jenkins-pass
       - hub-pass
+      - read-key
     deploy:
       mode: global
 
